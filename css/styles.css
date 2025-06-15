@@ -72,6 +72,7 @@ ol {
   background-color: #2e2f42;
 }
 .hero-banner-title {
+  text-align: center;
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
@@ -80,7 +81,6 @@ ol {
 }
 .hero-banner-button {
   cursor: pointer;
-  border-radius: 4px;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -122,6 +122,8 @@ ol {
   background-color: #f4f4fd;
 }
 .team-title {
+  text-transform: capitalize;
+  text-align: center;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -154,6 +156,8 @@ ol {
 .portfolio {
 }
 .portfolio-title {
+  text-align: center;
+  text-transform: capitalize;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
